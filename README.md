@@ -6,8 +6,13 @@ Jednostavna igra memorije u kojoj treba spojiti po dva para geometrijskih oblika
 ![MilicaSavic_F2-2-2022_Screenshot3](https://user-images.githubusercontent.com/93157947/235301347-7479d9b1-d464-44e0-9d3a-e472c85242e8.jpg)
 
 Snimak ekrana sa desktopa:
-https://user-images.githubusercontent.com/93157947/235301378-98edafef-5f71-4b0a-a78a-552455e6b3bc.mp4
+
+https://user-images.githubusercontent.com/93157947/235301595-96a6614a-67d4-4abb-b597-f2beaae19b77.mp4
+
+
 
 Snimak ekrana sa telefona:
-https://user-images.githubusercontent.com/93157947/235301410-164f2dcc-aa84-4c51-b6fd-f1e23c8e8d1a.mp4
-Napomena: zvuk na snimku sa telefona secka upravo zbog snimanja ekrana, kada ono nije uključeno sve se normalno čuje.
+
+https://user-images.githubusercontent.com/93157947/235301497-58d99fef-20e6-4f6c-8ab6-b26dbc2ea55f.mp4
+
+Napomena: zvuk na snimku sa telefona secka zbog snimanja. Kad se ne snima ekran normalno se čuje.
